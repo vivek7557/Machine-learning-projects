@@ -48,14 +48,6 @@ Built and trained neural networks for binary and multi-class classification.\
 
 ---
 
-### 💬 [amazon sentiment analysis (NLP)]([https://github.com/vivek7557/portfolio/blob/main/03-NLP%20Project%20-%20Solutions.ipynb](https://github.com/vivek7557/Machine-learning-projects/blob/main/machine%20learning%20projects/Amazon%20Product%20Review%20Sentiment%20Analysis/amazon_sentiment_analysis_pipeline%20.ipynb))
-Built a sentiment classifier using TF-IDF and logistic regression.\
-📌 **Tools**: Scikit-learn, NLP Pipelines\
-✅ Confusion matrix, model evaluation
-
----
-
-
 ## 📫 Contact
 - ✉️ Email: vivekgiri556@gmail.com  
 - 🧑‍💻 GitHub: [vivek7557](https://github.com/vivek7557)  
